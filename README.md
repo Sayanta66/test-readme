@@ -1,5 +1,5 @@
 # Syself GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - open source security infrastructure" />
+  <img src="https://github.com/Sayanta66/test-readme/blob/main/img/03-1.png" width="255" height="200" alt="Ory - open source security infrastructure" />
 </p>
