@@ -12,8 +12,8 @@ Syself is a privately-held company headquartered in Germany specializing in Kube
 
 ### Key features
 
-- **Production-Ready and Developer-Friendly**: We provide Kubernetes clusters that are secure, compliant, and ready to deploy, designed with a developer’s workflow in mind.
-- **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime.
+- **Production-Ready and Developer-Friendly**: We provide pre-configured Kubernetes clusters that are secure, compliant, and ready to deploy, designed with a developer’s workflow in mind.
+- **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime. Our clusters are intelligent and hence you applications can run optimally with high availability.
 - **Scalability Made Easy**: Our dynamic autoscaling feature responds to your application needs, offering the flexibility to grow as your projects do.
 - **Embrace GitOps**: Implement efficient, Git-based workflows with our GitOps-ready platform, enhancing your CI/CD practices.
 - **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements.
