@@ -6,7 +6,7 @@
 
 Syself is a privately-held, profitable company headquartered in Germany with a worldwide distributed international team.
 
-## Syself Autopilot
+## Syself Autopilot: : Our own Kubernetes platform and a developer's playground
 
 
 ### Key features
