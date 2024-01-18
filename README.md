@@ -2,7 +2,7 @@
   <img src="https://github.com/Sayanta66/test-readme/blob/main/img/03-1.png" width="255" height="200" alt="Ory - open source security infrastructure" />
 </p>
 
-Welcome to Syself's GitHub space where we showcase our state-of-the-art open-source developmental projects that helped in with building a practical, efficient Kubernetes solutions. Our focus is on creating tools that not only solve real-world problems but also inspire and engage the developer community. 
+Welcome to [Syself's](https://syself.com/) GitHub space where we showcase our state-of-the-art open-source developmental projects that helped in with building a practical, efficient Kubernetes solutions. Our focus is on creating tools that not only solve real-world problems but also inspire and engage the developer community. 
 
 ## Who are we?
 Syself is a privately-held company headquartered in Germany specializing in Kubernetes managed services with a worldwide distributed international team. We offer easy-to-use and production-ready Kubernetes clusters to support the growth of your business. With our open-source products, you can simplify the management of your Kubernetes clusters, streamline your application deployment, and tackle scalability challenges. With 24*7 support available, we are committed to ensure that your Kubernetes operations are seamless. 
@@ -23,12 +23,12 @@ Syself Autopilot is our answer to the future of Kubernetes management.
 
 ### Our Projects
 We have a core focus on open-source from the start and that lead to the development of some amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
-- **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**:
-- **[Helm Charts](https://github.com/syself/charts)**:
-- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**:
-- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**:
-- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**:
-- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**:
+- **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: 
+- **[Helm Charts](https://github.com/syself/charts)**: 
+- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: 
+- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: 
+- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: 
+- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: 
 
 ## Syself Services
 
