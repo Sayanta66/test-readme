@@ -22,7 +22,7 @@ Syself Autopilot is
 ## Open-Source with Syself
 
 ### Our Projects
-Some of our notable projects include:
+We have a core focus on open-source from the start and that lead to the development of some amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
 - **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**:
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/)**:
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**:
