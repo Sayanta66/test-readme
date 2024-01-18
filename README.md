@@ -20,7 +20,7 @@ Syself is a privately-held, profitable company headquartered in Germany with a w
 ## Open-Source with Syself
 
 
-## Join our wonderful team
+## Join us in the journey
 
 
 ## Further Reading
