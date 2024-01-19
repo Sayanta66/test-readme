@@ -28,7 +28,7 @@ We have a core focus on open-source from the start and that led to the developme
 - **[Helm Charts](https://github.com/syself/charts)**: The helm charts help you manage Kubernetes applications.
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Kubernetes ClusterAPI provider for Hivelocity is a Kubernetes-native tool that allows you to manage Kubernetes clusters on [Hivelocity's](https://www.hivelocity.net/) infrastructure.
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: This cloud controller manager has been developed by Syself for the infrastructure provider Hivelocity.
-- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: 
+- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: The Cluster Stack Operator works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) and creates Kubernetes clusters in an easy and [Cluster-API](https://github.com/kubernetes-sigs/cluster-api)-native way.
 - **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: 
 
 ## Syself Services
