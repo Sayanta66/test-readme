@@ -8,7 +8,7 @@ Welcome to [Syself's](https://syself.com/) GitHub space, where we showcase our s
 Syself is a privately-held company headquartered in Germany specializing in Kubernetes-managed services with a worldwide distributed international team. We offer easy-to-use and production-ready Kubernetes clusters to support the growth of your business. With our open-source products, you can simplify the management of your Kubernetes clusters, streamline your application deployment, and tackle scalability challenges. With 24*7 support available, we are committed to ensuring that your Kubernetes operations are seamless. 
 
 ## Syself Autopilot: Our own Kubernetes platform and a developer's playground
-Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. 
+Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. Autopilot essentially enhances Cluster-API by adding extra features and automation that operate behind the scenes. It provides you with a management cluster, which serves as a central point for interactively managing Kubernetes objects that define your clusters.
 
 ### Key features
 
@@ -20,7 +20,7 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 - **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users. 
 
 ## Open-Source with Syself
-
+From the start, Syself has always been a big fan and a staunch supporter of open-source technologies and contributions. 
 
 ### Our Projects
 We have a core focus on open-source from the start and that led to the development of some amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
@@ -29,7 +29,7 @@ We have a core focus on open-source from the start and that led to the developme
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Kubernetes ClusterAPI provider for Hivelocity is a Kubernetes-native tool that allows you to manage Kubernetes clusters on [Hivelocity's](https://www.hivelocity.net/) infrastructure.
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: This cloud controller manager has been developed by Syself for the infrastructure provider Hivelocity.
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: The Cluster Stack Operator works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) and creates Kubernetes clusters in an easy and [Cluster-API](https://github.com/kubernetes-sigs/cluster-api)-native way.
-- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: 
+- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: A Command Line Interface (CLI) to manage Cluster Stacks.
 
 ## Syself Services
 
