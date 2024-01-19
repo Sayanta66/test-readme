@@ -27,7 +27,7 @@ We have a core focus on open-source from the start and that led to the developme
 - **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Kubernetes Cluster-API Provider Hetzner is a Cluster-API integrator that enables declarative provisioning of multiple Kubernetes clusters on infrastructure provider [Hetzner](https://hetzner.cloud/).
 - **[Helm Charts](https://github.com/syself/charts)**: The helm charts help you manage Kubernetes applications.
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Kubernetes ClusterAPI provider for Hivelocity is a Kubernetes-native tool that allows you to manage Kubernetes clusters on [Hivelocity's](https://www.hivelocity.net/) infrastructure.
-- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: 
+- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: This cloud controller manager has been developed by Syself for the infrastructure provider Hivelocity.
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: 
 - **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: 
 
