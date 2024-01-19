@@ -8,7 +8,7 @@ Welcome to [Syself's](https://syself.com/) GitHub space, where we showcase our s
 Syself is a privately-held company headquartered in Germany specializing in Kubernetes-managed services with a worldwide distributed international team. We offer easy-to-use and production-ready Kubernetes clusters to support the growth of your business. With our open-source products, you can simplify the management of your Kubernetes clusters, streamline your application deployment, and tackle scalability challenges. With 24*7 support available, we are committed to ensuring that your Kubernetes operations are seamless. 
 
 ## Syself Autopilot: Our own Kubernetes platform and a developer's playground
-Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform.
+Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. 
 
 ### Key features
 
@@ -21,9 +21,10 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 
 ## Open-Source with Syself
 
+
 ### Our Projects
 We have a core focus on open-source from the start and that led to the development of some amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
-- **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: 
+- **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Kubernetes Cluster-API Provider Hetzner is a Cluster-API integrator that enables declarative provisioning of multiple Kubernetes clusters on infrastructure provider [Hetzner](https://hetzner.cloud/).
 - **[Helm Charts](https://github.com/syself/charts)**: 
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: 
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: 
