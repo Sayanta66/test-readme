@@ -23,13 +23,13 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 From the start, Syself has always been a big fan and a staunch supporter of open-source technologies and contributions. 
 
 ### Our Projects
-We have a core focus on open-source from the start and that led to the development of some amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
+We have a core focus on open-source from the start and that led to the development of some of the amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
 - **[Kubernetes ClusterAPI Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Kubernetes Cluster-API Provider Hetzner is a Cluster-API integrator that enables declarative provisioning of multiple Kubernetes clusters on infrastructure provider [Hetzner](https://hetzner.cloud/).
 - **[Helm Charts](https://github.com/syself/charts)**: The helm charts help you manage Kubernetes applications.
 - **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Kubernetes ClusterAPI provider for Hivelocity is a Kubernetes-native tool that allows you to manage Kubernetes clusters on [Hivelocity's](https://www.hivelocity.net/) infrastructure.
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: This cloud controller manager has been developed by Syself for the infrastructure provider Hivelocity.
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: The Cluster Stack Operator works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) and creates Kubernetes clusters in an easy and [Cluster-API](https://github.com/kubernetes-sigs/cluster-api)-native way.
-- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: This is a Command Line Interface (CLI) to manage Cluster Stacks. Csmctl is used for creating cluster stack releases and building node image artifacts on the desired container registry.
+- **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: Csmctl is a tool used for developing creating cluster stack releases and building node image artifacts on the desired container registry.
 
 ## Syself Services
 
