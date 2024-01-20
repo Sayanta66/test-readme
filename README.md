@@ -20,7 +20,10 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 - **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users. 
 
 ## Open-Source with Syself
-From the start, Syself has always been a big fan and a staunch supporter of open-source technologies and contributions. 
+From the start, Syself has always been a big fan and a staunch supporter of open-source technologies and contributions. This has led to:
+
+**Active Community Contributions**: We have always been motivated by our active contributions to the Kubernetes family of projects, including involvement in projects like cluster-api and cluster-api-operator.
+**Building with Developers in Mind**: Our platform is developed by developers, for developers. We understand the intricacies of Kubernetes and strive to simplify its complexity while maintaining its powerful capabilities.
 
 ### Our Projects
 We have a core focus on open-source from the start and that led to the development of some of the amazing projects with notable infrastructure providers like Hetzner and Hivelocity and organizations like Sovereign Cloud Stack. The notable projects are listed below:
