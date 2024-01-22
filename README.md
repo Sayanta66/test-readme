@@ -38,7 +38,7 @@ We have a core focus on open-source from the start and that led to the developme
 ## Syself Services
 
 
-## Join us in the journey
+## Join us on the journey
 
 
 ## Further Reading
