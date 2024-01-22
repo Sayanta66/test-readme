@@ -39,6 +39,7 @@ We have a core focus on open-source from the start and that led to the developme
 Syself is always ready to assist you in your epic Kubernetes journey. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.  
 
 ## Join us on the journey
-
+We invite you to be a part of a community that is shaping the future of Kubernetes. Your expertise, creativity, and passion for open-source can help drive the next wave of innovation in Kubernetes management. 
+* **A Hub for Kubernetes Innovators**: Our GitHub is not just a collection of code repositories rather, it is a community for sharing ideas, best practices, and innovative solutions.
 
 ## Further actions
