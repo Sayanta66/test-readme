@@ -36,7 +36,7 @@ We have a core focus on open-source from the start and that led to the developme
 - **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: Csmctl is a tool used for developing cluster stack releases and building node image artifacts on the desired container registry.
 
 ## Syself Services
-Syself is always ready to assist you in your epic Kubernetes journey. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters.  
+Syself is always ready to assist you in your epic Kubernetes journey. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.  
 
 ## Join us on the journey
 
