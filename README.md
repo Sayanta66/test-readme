@@ -44,4 +44,8 @@ We invite you to be a part of a community that is shaping the future of Kubernet
 * **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform.
 * **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions to stay at the forefront of Kubernetes innovation.
 
+### Hiring
+We hire from all around the world and are always on the lookout for talented individuals who will become the frontrunners for our team. Alongside a fully remote work culture with an international team, you will get a ton of learning opportunities and potential. If you think you are a right fit, mail your CV to <jobs@syself.com>.
+
 ## Further actions
+Want to learn more about our offered services and products, shoot your queries at <info@syself.com>.
