@@ -45,6 +45,7 @@ We invite you to be a part of a community that is shaping the future of Kubernet
 * **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions to stay at the forefront of Kubernetes innovation.
 
 ### Our affiliate program
+Join Syself's affiliate program and elevate your passive income to new heights. This program is designed for anyone willing to help Syself out and get a taste of Syself's success. Whenever you refer a new user or a user starts using our product mentioning you, you'll receive a 20% commission on their monthly spending for an entire year.
 
 ### Hiring
 We hire from all around the world and are always on the lookout for talented individuals who will become the frontrunners for our team. Alongside a fully remote work culture with an international team, you will get a ton of learning opportunities and potential. If you think you are a right fit, mail your CV to <jobs@syself.com>.
