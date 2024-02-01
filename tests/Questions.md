@@ -1,2 +1,3 @@
 - How does cluster API quick start reference help a user in the Cluster API Provider Hetzner doc?
 - "The cluster-templates start with `cluster-template-`" - What do we mean by that? Is this information regarding the command?
+- 
