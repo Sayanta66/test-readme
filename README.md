@@ -41,8 +41,8 @@ Syself is always ready to assist you in your epic Kubernetes journey. We use an 
 ## Join us on the journey
 We invite you to be a part of a community that is shaping the future of Kubernetes. Your expertise, creativity, and passion for open-source can help drive the next wave of innovation in Kubernetes management. Here is a quick rundown of our open-source culture: 
 * **A hub for Kubernetes innovators**: Our GitHub is not just a collection of code repositories rather, it is a community for sharing ideas, best practices, and innovative solutions.
-* **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform.
-* **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions to stay at the forefront of Kubernetes innovation.
+* **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform. Start by creating a Pull Request for feature development or solving any critical bug. Create issues with feature enhancement proposals or feedback upon the same. Also,  
+* **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions regarding our open-source components to stay at the forefront of Kubernetes innovation.
 
 ### Our affiliate program
 Join Syself's affiliate program and elevate your passive income to new heights. This program is designed for anyone willing to help Syself out and get a taste of Syself's success. Whenever you refer a new user or a user starts using our product mentioning you, you'll receive a 20% commission on their monthly spending for an entire year.
