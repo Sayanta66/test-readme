@@ -16,7 +16,7 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 - **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime. Our clusters are intelligent and hence, your applications can run optimally with high availability.
 - **Scalability Made Easy**: Our dynamic autoscaling feature responds to your application needs, offering the flexibility to grow as your projects do.
 - **Embrace GitOps**: Implement efficient, Git-based workflows with our GitOps-ready platform, enhancing your CI/CD practices.
-- **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across 3 continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
+- **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across three continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
 - **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users. 
 
 ## Open-Source with Syself
@@ -39,7 +39,7 @@ We have a core focus on open-source from the start and that led to the developme
 Syself is always ready to assist you in your epic Kubernetes journey. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.  
 
 ## Join us on the journey
-We invite you to be a part of a community that is shaping the future of Kubernetes. Your expertise, creativity, and passion for open-source can help drive the next wave of innovation in Kubernetes management. A quick rundown of our open-source culture: 
+We invite you to be a part of a community that is shaping the future of Kubernetes. Your expertise, creativity, and passion for open-source can help drive the next wave of innovation in Kubernetes management. Here is a quick rundown of our open-source culture: 
 * **A hub for Kubernetes innovators**: Our GitHub is not just a collection of code repositories rather, it is a community for sharing ideas, best practices, and innovative solutions.
 * **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform.
 * **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions to stay at the forefront of Kubernetes innovation.
@@ -48,7 +48,7 @@ We invite you to be a part of a community that is shaping the future of Kubernet
 Join Syself's affiliate program and elevate your passive income to new heights. This program is designed for anyone willing to help Syself out and get a taste of Syself's success. Whenever you refer a new user or a user starts using our product mentioning you, you'll receive a 20% commission on their monthly spending for an entire year.
 
 ### Try us out
-
+Whether you are a business trying to break into the market or an organization operating in a regulated space, we have you covered. 
 
 ### Hiring
 We hire from all around the world and are always on the lookout for talented individuals who will become the frontrunners for our team. Alongside a fully remote work culture with an international team, you will get a ton of learning opportunities and potential. If you think you are a right fit, mail your CV to <jobs@syself.com>.
