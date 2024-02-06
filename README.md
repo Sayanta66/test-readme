@@ -13,11 +13,14 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 ### Key features
 
 - **Production-Ready and Developer-Friendly**: We provide pre-configured Kubernetes clusters that are secure, compliant, and ready to deploy, designed with a developer’s workflow in mind.
-- **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime. Our clusters are intelligent and hence, your applications can run optimally with high availability.
+- **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime. Our clusters are intelligent. Hence, your applications can run optimally with high availability.
 - **Scalability Made Easy**: Our dynamic autoscaling feature responds to your application needs, offering the flexibility to grow as your projects do.
 - **Embrace GitOps**: Implement efficient, Git-based workflows with our GitOps-ready platform, enhancing your CI/CD practices.
 - **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across three continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
-- **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users. 
+- **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users.
+
+## Syself Services
+Syself is always ready to assist you in the Kubernetes journey of your business. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.   
 
 ## Open-Source with Syself
 From the start, Syself has always been a big fan and firm supporter of open-source technologies and contributions. This has led to:
@@ -35,13 +38,10 @@ We have a core focus on open-source from the start and that led to the developme
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: The Cluster Stack Operator works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) and creates Kubernetes clusters in an easy and [Cluster-API](https://github.com/kubernetes-sigs/cluster-api)-native way.
 - **[Csmctl](https://github.com/SovereignCloudStack/csmctl)**: Csmctl is a tool used for developing cluster stack releases and building node image artifacts on the desired container registry.
 
-## Syself Services
-Syself is always ready to assist you in your epic Kubernetes journey. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.  
-
 ## Join us on the journey
 We invite you to be a part of a community that is shaping the future of Kubernetes. Your expertise, creativity, and passion for open-source can help drive the next wave of innovation in Kubernetes management. Here is a quick rundown of our open-source culture: 
 * **A hub for Kubernetes innovators**: Our GitHub is not just a collection of code repositories rather, it is a community for sharing ideas, best practices, and innovative solutions.
-* **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform. Start by creating a Pull Request for feature development or solving any critical bug. Create issues with feature enhancement proposals or feedback upon the same. Also,  
+* **Your contributions matter**: Whether it’s improving existing features, reporting issues, or suggesting new ideas, your input is invaluable for us in shaping the future of our platform. Start by creating a Pull Request for feature development or solving any critical bug. Create issues with feature enhancement proposals or feedback upon the same. Also, we would love to see your issues based on proposals to reproduce the existing things.  
 * **Learn and grow Together**: We believe in mutual growth and knowledge sharing. Explore our code, contribute to our documentation (coming soon), and join discussions regarding our open-source components to stay at the forefront of Kubernetes innovation.
 
 ### Our affiliate program
