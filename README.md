@@ -54,4 +54,4 @@ Whether you are a business trying to break into the market or an organization op
 We hire from all around the world and are always on the lookout for talented individuals who will become the frontrunners for our team. Alongside a fully remote work culture with an international team, you will get a ton of learning opportunities and potential. If you think you are a right fit, mail your CV to <jobs@syself.com>.
 
 ## Further actions
-Want to learn more about our offered services and products, shoot your queries at <info@syself.com>.
+Want to learn more about our offered services and products? Shoot your queries at <info@syself.com>.
