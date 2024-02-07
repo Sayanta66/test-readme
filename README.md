@@ -14,7 +14,7 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 
 - **Production-Ready and Developer-Friendly**: We provide pre-configured Kubernetes clusters that are secure, compliant, and ready to deploy, designed with a developer’s workflow in mind.
 - **Automated Self-Healing**: Focus more on development and less on maintenance with our self-healing systems, ensuring minimal downtime. Our clusters are intelligent. Hence, your applications can run optimally with high availability.
-- **Scalability Made Easy**: Our dynamic autoscaling feature responds to your application needs, offering the flexibility to grow as your projects do.
+- **Scalability Made Easy**: Our platform helps you scale accordingly to your business needs. Save your cloud costs by modifying our cluster object through the specification of labels and altering the replica amount based on your incoming traffic. 
 - **Embrace GitOps**: Implement efficient, Git-based workflows with our GitOps-ready platform, enhancing your CI/CD practices.
 - **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across three continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
 - **Compliance-Friendly Deployment Options**: Our platform is built with regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users.
@@ -48,7 +48,7 @@ We invite you to be a part of a community that is shaping the future of Kubernet
 Join Syself's affiliate program and elevate your passive income to new heights. This program is designed for anyone willing to help Syself out and get a taste of Syself's success. Whenever you refer a new user or a user starts using our product mentioning you, you'll receive a 20% commission on their monthly spending for an entire year.
 
 ### Try us out
-Whether you are a business trying to break into the market or an organization operating in a regulated space, we have you covered. 
+Whether you are a business trying to break into the market or an organization operating in a regulated space, we have you covered. Choosing Syself means prioritizing flexibility, privacy, and efficiency in your Kubernetes management. With our broker concept (facilitating management without owning data centers), open-source foundation, and commitment to providing a consistent Kubernetes experience across all environments, we ensure that your operations are streamlined, secure, and perfectly aligned with your strategic objectives. Discover the freedom and power of managing Kubernetes with Syself. Contact us to learn more or get started with Syself Autopilot today.
 
 ### Hiring
 We hire from all around the world and are always on the lookout for talented individuals who will become the frontrunners for our team. Alongside a fully remote work culture with an international team, you will get a ton of learning opportunities and potential. If you think you are a right fit, mail your CV to <jobs@syself.com>.
