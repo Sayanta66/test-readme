@@ -17,7 +17,7 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 - **Scalability Made Easy**: Our dynamic autoscaling feature responds to your application needs, offering the flexibility to grow as your projects do.
 - **Embrace GitOps**: Implement efficient, Git-based workflows with our GitOps-ready platform, enhancing your CI/CD practices.
 - **Customizable SLAs and Dedicated Options**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across three continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
-- **Compliance-Friendly Deployment Options**: Our platform is built with keeping regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users.
+- **Compliance-Friendly Deployment Options**: Our platform is built with regulatory compliance in mind. It is GDPR compliant and ensures data sovereignty for users.
 
 ## Syself Services
 Syself is always ready to assist you in the Kubernetes journey of your business. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously.   
