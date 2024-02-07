@@ -21,8 +21,11 @@ Syself Autopilot is our answer to the future of Kubernetes management. The goal 
 
 ## Syself Services
 Syself is always ready to assist you in the Kubernetes journey of your business. We use an infrastructure-as-software approach to create a reliable, scalable, and automatic system that allows the management of Kubernetes clusters. It provides a high grade of hands-free operation by getting enabled to react in certain situations autonomously. Running or maintaining a critical infrastructure is not just a dream but a reality with Syself Autopilot. With our team of experts, we are ready to assist in providing support to manage your Kubernetes clusters and guide you with your cloud journey.
+
 **Quick responses for your queries** - Our Service Level Agreements give you a guaranteed response time of approximately 60 minutes for your urgent queries and reduced to 30 minutes for clients with the premium tier. Additionally, our available hotline is there to cater to your immediate needs as soon as possible.
+
 **Available round the clock** - Choose your preferred and convenient mode of communication as we are ready to support you via email, hotline, and chat services throughout the day.
+
 **Experts at your service**- We have your back when it comes to resolving complex issues within minutes. Our team of experts will provide you with the best possible assistance and will prompt a reliable resolution for your critical concerns.  
 
 ## Open-Source with Syself
