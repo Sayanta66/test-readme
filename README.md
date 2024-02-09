@@ -8,7 +8,7 @@ Welcome to [Syself's](https://syself.com/) GitHub space, where we showcase our s
 Syself is a privately-held company headquartered in Germany specializing in Kubernetes-managed services with a worldwide distributed international team. We offer easy-to-use and production-ready Kubernetes clusters to support the growth of your business. With our open-source products, you can simplify the management of your Kubernetes clusters, streamline your application deployment, and tackle scalability challenges. With 24*7 support available, we are committed to ensuring that your Kubernetes operations are seamless. 
 
 ## Syself Autopilot: Our own Kubernetes platform and a developer's playground
-Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. Autopilot essentially enhances Cluster-API by adding extra features and automation that operate behind the scenes. It provides you with a management cluster, which serves as a central point for interactively managing Kubernetes objects that define your clusters.
+Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. Autopilot essentially enhances Cluster-API by adding extra features and automation that operate behind the scenes. It provides you with a management cluster, which serves as a central point for interactively managing Kubernetes objects that define your clusters. With an aim to reduce Kubernetes operations for customers by 98 percent, Syself offers you with a platform that is secured, versioned, and functional.  
 
 ### Key features
 
