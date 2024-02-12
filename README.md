@@ -53,7 +53,7 @@ We invite you to be a part of a community that is shaping the future of Kubernet
 ### Our affiliate program
 Join Syself's affiliate program and elevate your passive income to new heights. This program is designed for anyone willing to help Syself out and get a taste of Syself's success. Whenever you refer a new user or a user starts using our product mentioning you, you'll receive a 20% commission on their monthly spending for an entire year.
 
-### Try us out
+### Try Syself Autopilot
 Whether you are a business trying to break into the market or an organization operating in a regulated space, we have you covered. Choosing Syself means prioritizing flexibility, privacy, and efficiency in your Kubernetes management. With our broker concept (facilitating management without owning data centers), open-source foundation, and commitment to providing a consistent Kubernetes experience across all environments, we ensure that your operations are streamlined, secure, and perfectly aligned with your strategic objectives. Discover the freedom and power of managing Kubernetes with Syself. Contact us to learn more or get started with Syself Autopilot today.
 
 ### Hiring
