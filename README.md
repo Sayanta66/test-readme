@@ -3,15 +3,13 @@
   <img src="https://github.com/Sayanta66/test-readme/blob/main/img/03-1.png" width="255" height="200" alt="Ory - open source security infrastructure" />
 </p>
 
-Dive into the heart of Kubernetes innovation with Syself, where we're pushing the boundaries of open-source technology to craft solutions that empower developers and businesses worldwide. Our mission? Simplify Kubernetes infrastructure, making it accessible, efficient, and secure for businesses of all sizes.
-
-Welcome to [Syself's](https://syself.com/) GitHub space, where we showcase our state-of-the-art open-source developmental projects that helped in building practical, efficient Kubernetes solutions. Our focus is on creating tools that not only solve real-world problems but also inspire and engage the developer community. 
+Welcome to [Syself's](https://syself.com/) GitHub space, and dive into the heart of Kubernetes innovation with us. We're pushing the boundaries of open-source technology to craft solutions that empower developers and businesses worldwide. Our mission? Simplify Kubernetes infrastructure, making it accessible, efficient, and secure for businesses of all sizes.
 
 ## Who are we?
 Syself is a privately-held company headquartered in Germany specializing in Kubernetes-managed services with a worldwide distributed international team. We offer easy-to-use and production-ready Kubernetes clusters to support the growth of your business. With our open-source products, you can simplify the management of your Kubernetes clusters, streamline your application deployment, and tackle scalability challenges. With 24*7 support available, we are committed to ensuring that your Kubernetes operations are seamless. 
 
 ## Syself Autopilot: Our own Kubernetes platform and a developer's playground
-Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. Autopilot essentially enhances Cluster-API by adding extra features and automation that operate behind the scenes. It provides you with a management cluster, which serves as a central point for interactively managing Kubernetes objects that define your clusters. With an aim to reduce Kubernetes operations for customers by 98 percent, Syself offers you a platform that is secured, versioned, and functional.  
+Syself Autopilot is our answer to the future of Kubernetes management. The goal of Autopilot is to simplify the use of Kubernetes as a platform. Autopilot essentially enhances Cluster-API by adding extra features and automation that operate behind the scenes. It provides you with a management cluster, which serves as a central point for interactively managing Kubernetes objects that define your clusters. Intending to reduce Kubernetes operations for customers by 98 percent, Syself offers you a platform that is secured, versioned, and functional.  
 
 ### Key features
 
