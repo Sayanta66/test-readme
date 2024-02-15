@@ -2,6 +2,8 @@
   <img src="https://github.com/Sayanta66/test-readme/blob/main/img/03-1.png" width="255" height="200" alt="Ory - open source security infrastructure" />
 </p>
 
+Dive into the heart of Kubernetes innovation with Syself, where we're pushing the boundaries of open-source technology to craft solutions that empower developers and businesses worldwide. Our mission? Simplify Kubernetes infrastructure, making it accessible, efficient, and secure for businesses of all sizes.
+
 Welcome to [Syself's](https://syself.com/) GitHub space, where we showcase our state-of-the-art open-source developmental projects that helped in building practical, efficient Kubernetes solutions. Our focus is on creating tools that not only solve real-world problems but also inspire and engage the developer community. 
 
 ## Who are we?
