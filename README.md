@@ -23,7 +23,7 @@ Syself is always ready to assist you in the Kubernetes journey of your business.
 ### Key features
 
 - **Production-Ready Kubernetes clusters**: Our platform ensures immediate access to pre-configured Kubernetes clusters that are secure, compliant, and ready to deploy, optimized for production environments right out of the box.
-- **Customizable SLAs and 24*7 Support**: Whether you’re in a start-up or a regulated industry, our platform adapts to your specific requirements. We have a variety of strong SLAs that are customized based on your business requirements. With our distributed team across three continents, we can ensure 24*7 support with our expertise that will help you streamline your Kubernetes journey.
+- **Customizable SLAs and 24*7 Support**: Guaranteed operational continuity and reliability with our 24/7 support and stringent service level agreements, providing insurance that ensures minimal downtime and swift issue resolution.
 - **Declarative Kubernetes Management**: Syself empowers users to manage their Kubernetes clusters using declarative syntax, mirroring native Kubernetes operations. This feature allows for intuitive self-service capabilities, reducing dependency on external support for routine tasks.
 
 ## Open-Source with Syself
