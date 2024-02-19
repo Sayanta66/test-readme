@@ -2,3 +2,4 @@
 - "The cluster-templates start with `cluster-template-`" - What do we mean by that? Is this information regarding the command?
 - Do we need to tell that about `clusterctl` in the quickstart guide?
 - What is a Hetzner Robot? Why do we use it?
+- `enableIPv4` and `enableIPv6` - couldn't find them in `HCloudMachine` CRD.
