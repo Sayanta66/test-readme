@@ -130,12 +130,18 @@ Optional Variables:
 In order for the provider integration hetzner to communicate with the Hetzner API ([HCloud API](https://docs.hetzner.cloud/), we need to create a secret with the access data. The secret must be in the same namespace as the other CRs.
 
 `export HCLOUD_TOKEN="<YOUR-TOKEN>" `
+
 - HCLOUD_TOKEN: The project where your cluster will be placed. You have to get a token from your HCloud Project.
+
+Use the below command to create the required secret with the access data:
 
 ```shell
 kubectl create secret generic hetzner --from-literal=hcloud=$HCLOUD_TOKEN
+```
 
-# Patch the created secret so it is automatically moved to the target cluster later.
+Patch the created secret so that it can be automatically moved to the target cluster later. The following command helps you do that:
+
+```shell
 kubectl patch secret hetzner -p '{"metadata":{"labels":{"clusterctl.cluster.x-k8s.io/move":""}}}'
 ```
 
