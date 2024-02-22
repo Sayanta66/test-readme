@@ -20,6 +20,15 @@ Cluster API Provider Hetzner uses Cluster API to create a cluster in provider He
 
 # Preparation
 
+You have two options: either create a pure HCloud cluster or a hybrid cluster with Hetzner dedicated (bare metal) servers. For a full list of flavors, please check out the [release page](https://github.com/syself/cluster-api-provider-hetzner/releases).
+
+To create a workload cluster, we need to do some preparation:
+
+- Set up the projects and credentials in HCloud.
+- Create the management/bootstrap cluster.
+- Export variables needed for cluster-template.
+- Create a secret with the credentials.
+
 ## Preparation of the Hetzner Project and Credentials
 
 There are several tasks that have to be completed before a workload cluster can be created.
