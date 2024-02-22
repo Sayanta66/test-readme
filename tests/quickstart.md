@@ -18,7 +18,7 @@ Cluster API Provider Hetzner uses Cluster API to create a cluster in provider He
 
 `clusterctl` is the command-line tool used for managing the lifecycle of a Cluster API management cluster. Learn more about `clusterctl`, its installation, and commands from the official documentation of Cluster API [here](https://cluster-api.sigs.k8s.io/clusterctl/overview).
 
-# Preparation
+## Preparation
 
 You have two options: either create a pure HCloud cluster or a hybrid cluster with Hetzner dedicated (bare metal) servers. For a full list of flavors, please check out the [release page](https://github.com/syself/cluster-api-provider-hetzner/releases).
 
@@ -29,30 +29,30 @@ To create a workload cluster, we need to do some preparation:
 - Export variables needed for cluster-template.
 - Create a secret with the credentials.
 
-## Preparation of the Hetzner Project and Credentials
+### Preparation of the Hetzner Project and Credentials
 
 There are several tasks that have to be completed before a workload cluster can be created.
 
-### Preparing Hetzner Cloud
+#### Preparing Hetzner Cloud
 
 1. Create a new [HCloud project](https://console.hetzner.cloud/projects).
 1. Generate an API token with read and write access. You'll find this if you click on the project and go to "security".
 1. If you want to use it, generate an SSH key, upload the public key to HCloud (also via "security"), and give it a name. Read more about [Managing SSH Keys](managing-ssh-keys.md).
 
-### Preparing Hetzner Robot
+#### Preparing Hetzner Robot
 
 1. Create a new web service user. [Here](https://robot.your-server.de/preferences/index), you can define a password and copy your user name.
 1. Generate an SSH key. You can either upload it via Hetzner Robot UI or just rely on the controller to upload a key that it does not find in the robot API. This is possible, as you have to store the public and private key together with the SSH key's name in a secret that the controller reads.
 
 ---
-## Bootstrap or Management Cluster Installation
+### Bootstrap or Management Cluster Installation
 
-### Common Prerequisites
+#### Common Prerequisites
 
 - Install and setup kubectl in your local environment
 - Install Kind and Docker
 
-### Install and configure a Kubernetes cluster
+#### Install and configure a Kubernetes cluster
 
 Cluster API requires an existing Kubernetes cluster accessible via kubectl. During the installation process, the Kubernetes cluster will be transformed into a management cluster by installing the Cluster API provider components, so it is recommended to keep it separated from any application workload.
 
@@ -69,13 +69,13 @@ For production use, a “real” Kubernetes cluster should be used with appropri
 [kind](https://kind.sigs.k8s.io/) can be used for creating a local Kubernetes cluster for development environments or for the creation of a temporary bootstrap cluster used to provision a target management cluster on the selected infrastructure provider.
 
 ---
-## Install Clusterctl and initialize Management Cluster
+### Install Clusterctl and initialize Management Cluster
 
-### Install Clusterctl
+#### Install Clusterctl
 Please use the instructions here: https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl
 or use: `make install-clusterctl`
 
-### Initialize the management cluster
+#### Initialize the management cluster
 Now that we’ve got clusterctl installed and all the prerequisites are in place, we can transform the Kubernetes cluster into a management cluster by using the `clusterctl init` command. More information about clusterctl can be found [here](https://cluster-api.sigs.k8s.io/clusterctl/commands/commands.html).
 
 For the latest version:
@@ -88,7 +88,7 @@ clusterctl init --core cluster-api --bootstrap kubeadm --control-plane kubeadm -
 or for a specific version: `--infrastructure hetzner:vX.X.X`
 
 ---
-## Variable Preparation to generate a cluster-template.
+### Variable Preparation to generate a cluster-template
 
 ```shell
 export HCLOUD_SSH_KEY="<ssh-key-name>" \
@@ -101,10 +101,10 @@ export HCLOUD_CONTROL_PLANE_MACHINE_TYPE=cpx31 \
 export HCLOUD_WORKER_MACHINE_TYPE=cpx31
 ```
 
-* HCLOUD_SSH_KEY: The SSH Key name you loaded in HCloud.
-* HCLOUD_REGION: https://docs.hetzner.com/cloud/general/locations/
-* HCLOUD_IMAGE_NAME: The Image name of your operating system.
-* HCLOUD_X_MACHINE_TYPE: https://www.hetzner.com/cloud#pricing
+* **HCLOUD_SSH_KEY**: The SSH Key name you loaded in HCloud.
+* **HCLOUD_REGION**: The region of the Hcloud cluster. Find the full list of regions [here](https://docs.hetzner.com/cloud/general/locations/).
+* **HCLOUD_IMAGE_NAME**: The Image name of the operating system.
+* **HCLOUD_X_MACHINE_TYPE**: The type of the Hetzner cloud server. Find more information [here](https://www.hetzner.com/cloud#pricing).
 
 For a list of all variables needed for generating a cluster manifest (from the cluster-template.yaml), use `clusterctl generate cluster my-cluster --list-variables`:
 
@@ -166,3 +166,23 @@ kubectl patch secret robot-ssh -p '{"metadata":{"labels":{"clusterctl.cluster.x-
 ```
 
 The secret name and the tokens can also be customized in the cluster template.
+
+## Generate your cluster.yaml
+> Please note that ready-to-use Kubernetes configurations, production-ready node images, kubeadm configuration, cluster add-ons like CNI, and similar services need to be separately prepared or acquired to ensure a comprehensive and secure Kubernetes deployment. This is where **Syself Autopilot** comes into play, taking on these challenges to offer you a seamless, worry-free Kubernetes experience. Feel free to contact us via e-mail: info@syself.com.
+
+The clusterctl generate cluster command returns a YAML template for creating a workload cluster.
+It generates a YAML file named `my-cluster.yaml` with a predefined list of Cluster API objects (`Cluster`, `Machines`, `MachineDeployments`, etc.) to be deployed in the current namespace. 
+
+```shell
+clusterctl generate cluster my-cluster --kubernetes-version v1.28.4 --control-plane-machine-count=3 --worker-machine-count=3  > my-cluster.yaml
+```
+>Note: With the `--target-namespace` flag, you can specify a different target namespace.
+Run the `clusterctl generate cluster --help` command for more information.
+
+You can also use different flavors, e.g., to create a cluster with the private network:
+
+```shell
+clusterctl generate cluster my-cluster --kubernetes-version v1.28.4 --control-plane-machine-count=3 --worker-machine-count=3  --flavor hcloud-network > my-cluster.yaml
+```
+
+All pre-configured flavors can be found on the [release page](https://github.com/syself/cluster-api-provider-hetzner/releases). The cluster-templates start with `cluster-template-`. The flavor name is the suffix.
