@@ -302,7 +302,7 @@ Delete the workload cluster and remove all of the components by using:
 kubectl delete cluster my-cluster
 ```
 
-> **IMPORTANT**: In order to ensure a proper clean-up of your infrastructure, you must always delete the cluster object. Deleting the entire cluster template with kubectl delete -f capi-quickstart.yaml might lead to pending resources that have to be cleaned up manually.
+> **IMPORTANT**: In order to ensure a proper clean-up of your infrastructure, you must always delete the cluster object. Deleting the entire cluster template with the `kubectl delete -f capi-quickstart.yaml` command might lead to pending resources that have to be cleaned up manually.
 
 Delete management cluster with
 
