@@ -21,3 +21,5 @@ The below command will uninstall the kyverno deployment and remove all the Kuber
 ````bash
 helm delete -n kyverno kyverno
 ````
+
+pick 09d06ae upgrade-and-uninstall
