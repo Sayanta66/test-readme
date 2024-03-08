@@ -23,3 +23,6 @@ helm delete -n kyverno kyverno
 ````
 
 pick 09d06ae upgrade-and-uninstall
+
+pick f4945c4 update-cis-adapter 
+pick 5ea6059 update-cis-other-providers
